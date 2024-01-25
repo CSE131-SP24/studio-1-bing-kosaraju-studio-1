@@ -19,7 +19,11 @@ public class HiFour {
 		String s3 = in.nextLine();
 		//
 		// Say hello to the names in s0 through s3.
-		//
+	System.out.print("Greetings Cormon");
+	System.out.print(", Leiserson");
+	System.out.print(", Rivest");
+	System.out.print(", and Stein!");
+
 
 	}
 }
